@@ -3,6 +3,10 @@
 * This project is using `Spring Boot 3.0.1` & `Spring Security 6`
 * If you are using later version to `3.0.1` and respective version of spring security then you might face some deprecated code in SecurityFilterChain class.
 
+
+![How Spring Security Works](src/main/resources/images/design.png)
+
+
 <details>
 <summary>UserDetails</summary>
 
