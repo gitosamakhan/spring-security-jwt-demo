@@ -96,8 +96,8 @@
 * AuthFilter extends OncePerRequestFilter which makes sure the `doFilterInternal` executes once everytime a servlet request is handled
 
 
-    @Component
-    public class AuthFilter extends OncePerRequestFilter {
+        @Component
+        public class AuthFilter extends OncePerRequestFilter {
     
         @Override
         protected void doFilterInternal(@NonNull HttpServletRequest request,
