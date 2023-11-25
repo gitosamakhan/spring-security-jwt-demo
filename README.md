@@ -204,22 +204,5 @@
     }
 
 </details>
-<details>
-<summary></summary>
 
-</details>
-<details>
-<summary></summary>
-
-</details>
-<details>
-<summary></summary>
-
-</details>
-<details>
-<summary></summary>
-
-</details>
-
-
-### Make sure to add unique email, so that there are no multiples
+Review/Run the code to check the response of requests.
